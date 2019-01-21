@@ -1,0 +1,13 @@
+{
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.7.1",
+    "pg-promise": "^8.5.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
